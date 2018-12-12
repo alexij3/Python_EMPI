@@ -15,7 +15,7 @@
 Також використовувалися інструменти для побудови графіків:lollipop plot, barplot, boxplot, KDEplot, pieplot, donutplot та деякі інші.
 
 # :beginner: Що було зроблено в даному проекті?
-В даному <a href="https://colab.research.google.com/drive/1lqf-OoR2M2zgV74Dv4BIuHbF5zdh9Nna">проекті</a><br> було розглянуто і виконано наступні завдання:
+В даному <a href="https://colab.research.google.com/drive/1lqf-OoR2M2zgV74Dv4BIuHbF5zdh9Nna">проекті</a> було розглянуто і виконано наступні завдання:
 * було підключено датасет та приведено його даних до нормального вигляду;
 * було знайдено моду та медіану;
 * виведено елементи датасету;
