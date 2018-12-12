@@ -32,7 +32,7 @@
 Дуже зручно було працювати в Jupyter Notebook та скидувати лаби в Google Classroom незалежно чи день це чи ніч.
 
 # :paperclip: Посилання
-<a href="https://drive.google.com/open?id=1EVdBYxlNSbm0zKB6qL-cdYyhshZjlIyG">:warning: EMPI Project :warning:</a><br>
+<a href="https://colab.research.google.com/drive/1lqf-OoR2M2zgV74Dv4BIuHbF5zdh9Nna">:warning: EMPI Project :warning:</a><br>
 <a href="https://www.instagram.com/vyshyvan_v/">:santa: Інстаграм автора проекту :santa:</a><br>
 
 # :beginner: Висновки
